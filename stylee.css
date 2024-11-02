@@ -1,0 +1,28 @@
+.photo {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.photo img {
+    width: 300px;
+    height: 250px;
+    margin: 20px;
+}
+
+
+.photo2 {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.photo2 img {
+    width: 300px;
+    height: 250px;
+    margin: 20px;
+}
+
+.filtr:hover, .filtr1:hover, .filtr2:hover, .filtr3:hover, .filtr4:hover, .filtr5:hover, .filtr6:hover, .filtr7:hover, .filtr8:hover, .filtr9:hover {
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1); 
+}
