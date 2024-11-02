@@ -1,0 +1,84 @@
+.photo {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.photo img {
+    width: 300px;
+    height: 250px;
+    margin: 20px;
+}
+
+
+.photo2 {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.photo2 img {
+    width: 300px;
+    height: 250px;
+    margin: 20px;
+}
+
+.filtr:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
+
+.filtr1:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
+
+.filtr2:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
+
+.filtr3:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
+
+.filtr4:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
+
+.filtr5:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
+
+.filtr6:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
+
+.filtr7:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
+
+.filtr8:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
+
+.filtr9:hover {
+    color: rgb(118, 102, 102);
+    background-color: rgb(131, 123, 123);
+    font-size: 100;
+}
